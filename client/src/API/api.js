@@ -1,3 +1,3 @@
-const url = "http://localhost:3001"
+const url = "https://infinity-4i4d.onrender.com"
 
 export default url
